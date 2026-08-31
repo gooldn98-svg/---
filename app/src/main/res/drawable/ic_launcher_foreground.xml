@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Diamond crest -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,28 L78,40 L54,52 L30,40 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M54,52 L78,40 L78,43 L54,55 L30,43 L30,40 Z" />
+    <!-- Tassel -->
+    <path
+        android:strokeColor="#FEF08A"
+        android:strokeWidth="2"
+        android:pathData="M38,44 L34,54" />
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M34,54 A2,2 0 1,0 34,58 A2,2 0 1,0 34,54 Z" />
+    <!-- Math Integral & Sigma Emblem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,58 C41,58 39,60 39,63 C39,66 41,67 43,69 L51,77 C53,79 55,81 55,84 C55,87 53,89 49,89 C46,89 44,87 43,85 L39,87 C41,91 44,93 49,93 C56,93 60,89 60,83 C60,78 57,75 54,72 L47,65 C45,63 44,62 44,61 C44,59 46,58 48,58 C51,58 53,60 54,62 L58,59 C56,56 53,54 48,54 Z" />
+    <!-- Square root / function symbol -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M60,78 L65,88 L72,62 L82,62" />
+</vector>
